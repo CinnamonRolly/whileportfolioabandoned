@@ -19,7 +19,7 @@ const Navbar = () => {
         <ul className='hidden md:flex'>
             <li className='p-4 cursor-pointer' >Blog</li>
             
-            <a href="https://while-linkin-bio.vercel.app/">
+            <a href="https://whilelinkinbio.vercel.app/">
                 <li className='p-4 cursor-pointer'>Contract</li>
             </a>
             <a href="https://github.com/CinnamonRolly">
